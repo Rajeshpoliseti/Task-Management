@@ -16,7 +16,7 @@ body{
     background: white;
     padding: 15px;
 }
-/* @media(min-width: 768px){
+/* @media(min-width: 991px){
     .add__new__btn__mobile__only{
         display: none;
     }
